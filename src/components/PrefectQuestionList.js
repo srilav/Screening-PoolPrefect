@@ -1,0 +1,35 @@
+export const bodyforprefect =[
+                 [{Question: "I am passionate about Heartfulness and its impact on one's life and am committed to joyfully take part in the heartfulness movement for a better world", Answers:{answer1:"yes",answer2:"Maybe",answer3:"No"}}],
+                 [{Question: "I understand and agree with the Heartfulness Vision - \"One person in every household to be aware of Heartfulness by 2030 across the world", Answers:{answer1:"yes",answer2:"Maybe",answer3:"No"}}],
+                 [{Question: "I accept to do my daily Heartfulness practice regularly and attend one group meditation per week at least", Answers:{answer1:"yes",answer2:"Maybe",answer3:"No"}}],
+                 [{Question: "I will take prescribed sittings from my assigned heartfulness Trainer", Answers:{answer1:"yes",answer2:"Maybe",answer3:"No"}}],
+                 [{Question: "I commit to uphold the unity and brotherhood in my Centre and keep working on my character in line with heartfulness philosophy. ( add a text field so they can explain)*", Answers:{answer1:"yes",answer2:"Maybe",answer3:"No"}}],
+                 [{Question: "I commit to at least 10 hours every week to do my work as a Trainer. ( add a text field so they can explain)*", Answers:{answer1:"yes",answer2:"Maybe",answer3:"No"}}],
+                 [{Question: "I have my full family support in my work as a Heartfulness Trainer. ( add a text field so they can explain)*", Answers:{answer1:"yes",answer2:"Maybe",answer3:"No"}}],
+                 [{Question: "I will read, understand and imbibe the Sahaj Marg philosophy as is mentioned in the Missions literature and Masters teachings. ( add a text field so they can explain)*", Answers:{answer1:"yes",answer2:"Maybe",answer3:"No"}}],
+                 [{Question: "I accept to study the following : Simple Heartfulness Practices ; Designing Destiny; Reality at Dawn ; Ten maxims ( from Heartfulness magazine ) *", Answers:{answer1:"yes",answer2:"Maybe",answer3:"No"}}],
+                 [{Question: "I am of good health and don’t take any anti depressants . ( if no, add a text field so they can explain)*",Color:"red", Answers:{answer1:"yes",answer2:"Maybe",answer3:"No"}}],
+                 [{Question: "I stay with ( tick all applicable) and they are supportive of my volunteer work as Heartfulness Trainer - parents, grandparents, spouse, children, friends . ( add a text field so they can explain)*", Answers:{answer1:"yes",answer2:"Maybe",answer3:"No"}}],
+                 [{Question: "I am subscribed to ( tick all applicable) - Heartfulness Youtube channel ; heartfulness Instagram ; Heartfulness Facebook ; One Beautiful Thought; Daily Whispers from Brighter World . ( add a text field so they can explain)*", Answers:{answer1:"yes",answer2:"Maybe",answer3:"No"}}],
+                 [{Question: "Dietary - I do not consume any of the following substances that impact my consciousness negatively and affect my preceptor work ( tick all applicable) - alcohol, non vegetarian food, any type of drugs.* ( add a text field so they can explain)*", Answers:{answer1:"yes",answer2:"Maybe",answer3:"No"}}],
+                 [{Question: "I undertake to uphold my behaviour, kindness honesty and character to what is espoused by principles of Heartfulness living*",Color:"red", Answers:{answer1:"yes",answer2:"Maybe",answer3:"No"}}],
+                 [{Question: "I undertake that my professional work will not suffer with my volunteer work as Heartfulness Trainer. In fact I will work to excel in my professional field too", Answers:{answer1:"yes",answer2:"Maybe",answer3:"No"}}]
+               ]
+
+export const bodyinhindiforprefect =[
+[{Question: "मैं हार्टफुलनेस और जीवन पर पड़ने वाले इसके असर से बहुत प्रभावित हूँ और एक बेहतर दुनिया के लिए हार्टफुलनेस आंदोलन में खुशी से भाग लेने के लिए प्रतिबद्ध हूँ|", Answers:{answer1:"हाँ",answer2:"शायद",answer3:"नहीं"}}],
+[{Question:"मैं हार्टफुलनेस के दृष्टिकोण को समझता/समझती हूँ और इससे सहमत हूँ, \"सन 2030 तक विश्व के प्रत्येक घर में कम से कम एक व्यक्ति को हार्टफुलनेस के बारे में जानकारी होनी चाहिए|", Answers:{answer1:"हाँ",answer2:"शायद",answer3:"नहीं"}}],
+[{Question:"मैं अपना दैनिक हार्टफुलनेस अभ्यास नियमित रूप से करने के लिए और सप्ताह में कम से कम एक सामूहिक ध्यान में शामिल होने के लिए राजी हूँ|", Answers:{answer1:"हाँ",answer2:"शायद",answer3:"नहीं"}}],
+[{Question:"मैं अपने लिए निश्चित किए गए हार्टफुलनेस प्रशिक्षक से बताई गई सिटिंग लेने के लिए तैयार हूँ|", Answers:{answer1:"हाँ",answer2:"शायद",answer3:"नहीं"}}],
+[{Question:"ैं अपने केंद्र में एकता और भाईचारे को बनाए रखने के लिए प्रतिबद्ध हूँ और अपने चरित्र को हार्टफुलनेस की विचारधार के अनुरूप बनाने का प्रयास करता रहूँगा/करती रहूँगी| (विस्तृत वर्णन के लिए टेक्स्ट फील्ड जोड़ें)*", Answers:{answer1:"हाँ",answer2:"शायद",answer3:"नहीं"}}],
+[{Question:"ैं सप्ताह में कम से कम 10 घंटे का समय प्रशिक्षक कार्य के लिए देने के लिए प्रतिबद्ध हूँ|  (समझाने के लिए टेक्स्ट फील्ड जोड़ें)*", Answers:{answer1:"हाँ",answer2:"शायद",answer3:"नहीं"}}],
+[{Question:"मेरे प्रशिक्षक कार्य में मेरे परिवार का पूरा सहयोग है| (समझाने के लिए टेक्स्ट फील्ड जोड़ें) *", Answers:{answer1:"हाँ",answer2:"शायद",answer3:"नहीं"}}],
+[{Question:"मैं संस्था के साहित्य और मालिकों की शिक्षाओं में बताई गई सहज मार्ग की विचारधार को पढ़ और समझ कर अपनाऊँगा/अपनाऊँगी| (समझाने के लिए टेक्स्ट फील्ड जोड़ें)*", Answers:{answer1:"हाँ",answer2:"शायद",answer3:"नहीं"}}],
+[{Question:"मैं यह सब पढ़ने की स्वीकृति देता/देती हूँ : हार्टफुलनेस की समझ, नियति का निर्माण, सत्य का उदय, 10 नियम (हार्टफुलनेस पत्रिका से) *", Answers:{answer1:"हाँ",answer2:"शायद",answer3:"नहीं"}}],
+[{Question:"मेरा स्वास्थ्य अच्छा है और मैं अवसाद की कोई दावा नहीं लेता/लेती हूँ| अगर ऐसा नहीं है ति संजाने के लिए टेक्स्ट फील्ड जोड़ें)*", Answers:{answer1:"हाँ",answer2:"शायद",answer3:"नहीं"}}],
+[{Question:"मैं इनके साथ रहता/रहती हूँ (जो लागू हों, उनपर टिक करें), और वे मेरे हार्टफुलनेस प्रशिक्षक के रूप में स्वयंसेवी कार्य में सहयोगी हैं- माता-पिता, दादा-दादी, पति/पत्नी,बच्चे, मित्र (समझने के लिए टेक्स्ट फील्ड जोड़ें)*", Answers:{answer1:"हाँ",answer2:"शायद",answer3:"नहीं"}}],
+[{Question:"मैंने इनकी सदस्यता ली हुई है :(जो लागू हों उनपर टिक करें) हार्टफुलनेस यूट्यूब चैनल, हार्टफुलनेस इंस्टाग्राम, हार्टफुलनेस फेसबुक, One Beautiful thought, daily Whispers From The Brighter World (समझने के लिए टेक्स्ट फील्ड जोड़ें)*", Answers:{answer1:"हाँ",answer2:"शायद",answer3:"नहीं"}}],
+[{Question:"भोजन संबंधी- मैं इनमें से कोई ऐसी चीज ग्रहण नहीं करता/करती जो मेरी चेतना पर नकारात्मक असर डाल सकती हैं और प्रशिक्षक कार्य में बाधक होती हैं,(सभी लागू होने वालों पर टिक करें)- अल्कोहल, मांसाहार, नशीली दवा (समझने के लिए टेक्स्ट फील्ड जोड़ें)*", Answers:{answer1:"हाँ",answer2:"शायद",answer3:"नहीं"}}],
+[{Question:"मैं अपने व्यवहार में दयालुता, ईमानदारी और चरित्र में वे गुण बनाए रखूँगा/रखूँगी जो हार्टफुलनेस जीवन के सिद्धांतों के अनुरूप हैं|", Answers:{answer1:"हाँ",answer2:"शायद",answer3:"नहीं"}}],
+[{Question:"मैं समझता/समझती हूँ कि मेरे व्यावसायिक कार्य में मेरे प्रशिक्षक के रूप में स्वयंसेवा से कोई हानि नहीं होगी| वास्तव में मैं व्यवसाय में भी उत्कृष्टता पाने के लिए कार्य करूँगा/करूँगी|", Answers:{answer1:"हाँ",answer2:"शायद",answer3:"नहीं"}}]
+]

@@ -18,7 +18,7 @@ export default function DenseAppBar() {
       <AppBar position="static" color="inherit">
         <Toolbar variant="dense">
           <Typography variant="h5" color="primary">
-            Screening Questions for Pool and Prefect
+            Self Application form for Volunteer ( Screening 1 and Preceptor Screening 2 ) Candidates ( Accelerated program ) Rev 1  - 10 Sep 2022
           </Typography>
         </Toolbar>
       </AppBar>
